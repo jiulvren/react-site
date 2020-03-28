@@ -1,0 +1,28 @@
+{
+  "name": "react-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config build/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiulvren/react-site.git"
+  },
+  "author": "jiulvren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiulvren/react-site/issues"
+  },
+  "homepage": "https://github.com/jiulvren/react-site#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
