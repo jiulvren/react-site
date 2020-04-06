@@ -1,7 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 export default class App extends React.Component {
-  render(){
-    <div>ni号</div>
+  render() {
+    return(
+      <div>this hello</div>
+    )
   }
 }
